@@ -1,0 +1,50 @@
+/* Colores corporativos */
+.bg-red {
+  background-color: #dc3545 !important;
+  color: white !important;
+}
+
+.navbar .nav-link {
+  color: white !important;
+}
+
+.bg-blue {
+  background-color: rgb(14, 34, 79);
+}
+
+.text-red {
+  color: #dc3545 !important;
+}
+
+.btn-red {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+}
+
+.btn-red:hover {
+  background-color: #aa303c;
+  color: #fff;
+  font-weight: bold;
+}
+
+.banner-img {
+  height: 500px;
+  object-fit: fill;
+}
+
+.btn-red {
+  background-color: #dc3545;
+  color: white;
+  border-color: #dc3545;
+}
+
+.btn-red:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+.table-custom-header {
+  background-color: #dc3545;
+  color: white;
+}
